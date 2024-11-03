@@ -16,6 +16,9 @@
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-4" value="Update State" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;glass=0;shadow=0;" parent="9mTSWFHz8PvkYDLNYMSd-1" vertex="1">
           <mxGeometry x="328.4321475625824" y="110.00020408163265" width="120.15810276679842" height="29.387755102040817" as="geometry" />
         </mxCell>
+        <mxCell id="tGmIHbTgJq2UJD_eWNQQ-2" value="&lt;div style=&quot;&quot;&gt;$$\boldsymbol&amp;nbsp;{u}^*(t_{0|i})$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9mTSWFHz8PvkYDLNYMSd-1">
+          <mxGeometry x="390" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1410" y="160" width="760" height="240" as="geometry" />
         </mxCell>
@@ -145,6 +148,9 @@
               <mxPoint x="-1241" y="470" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGmIHbTgJq2UJD_eWNQQ-1" value="&lt;div style=&quot;&quot;&gt;$$\boldsymbol&amp;nbsp;{u}(t_{0|i})$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="320" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
