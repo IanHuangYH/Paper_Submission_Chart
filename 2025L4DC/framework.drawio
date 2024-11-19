@@ -46,13 +46,13 @@
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mTSWFHz8PvkYDLNYMSd-11" target="9mTSWFHz8PvkYDLNYMSd-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9mTSWFHz8PvkYDLNYMSd-11" value="Test Task" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;arcSize=17;" parent="1" vertex="1">
+        <mxCell id="9mTSWFHz8PvkYDLNYMSd-11" value="Test task" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=none;arcSize=17;" parent="1" vertex="1">
           <mxGeometry x="-1393" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9mTSWFHz8PvkYDLNYMSd-12" value="Given Task" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="9mTSWFHz8PvkYDLNYMSd-12" value="Given task" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1381" y="253" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9mTSWFHz8PvkYDLNYMSd-13" value="MPC solver" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="9mTSWFHz8PvkYDLNYMSd-13" value="Multi-start &lt;br&gt;data generation" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1201" y="253" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-14" value="Update State" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-15" value="Collect data&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1001" y="253" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9mTSWFHz8PvkYDLNYMSd-16" value="model training" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="9mTSWFHz8PvkYDLNYMSd-16" value="Model training" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-811" y="253" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mTSWFHz8PvkYDLNYMSd-18" target="9mTSWFHz8PvkYDLNYMSd-20" edge="1">
@@ -73,7 +73,7 @@
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9mTSWFHz8PvkYDLNYMSd-20" target="9mTSWFHz8PvkYDLNYMSd-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9mTSWFHz8PvkYDLNYMSd-20" value="collect soliution candidate" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="9mTSWFHz8PvkYDLNYMSd-20" value="Collect solution candidate" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1016" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9mTSWFHz8PvkYDLNYMSd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9mTSWFHz8PvkYDLNYMSd-22" target="9mTSWFHz8PvkYDLNYMSd-4" edge="1">
