@@ -4,14 +4,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DQA1pnny6km0yf52TErZ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-40" target="DQA1pnny6km0yf52TErZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-40" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="780" y="313" width="210" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-39" target="DQA1pnny6km0yf52TErZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="780" y="133" width="210" height="147" as="geometry" />
+        </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-30" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="190" y="561" width="460" height="79" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-23" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="374" width="649" height="90" as="geometry" />
+          <mxGeometry x="100" y="374" width="640" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-20" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="254" width="649" height="90" as="geometry" />
+          <mxGeometry x="100" y="254" width="640" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-19" target="DQA1pnny6km0yf52TErZ-20">
           <mxGeometry relative="1" as="geometry">
@@ -21,8 +33,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-19" target="DQA1pnny6km0yf52TErZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="101" y="134" width="649" height="90" as="geometry" />
+          <mxGeometry x="101" y="134" width="639" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-1" target="DQA1pnny6km0yf52TErZ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -40,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;依據任務成本&lt;br&gt;生成最佳化的策略&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="269" width="170" height="60" as="geometry" />
+          <mxGeometry x="548" y="269" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;建立機器人決策框架&lt;br&gt;與模擬環境的資料集&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="170" height="60" as="geometry" />
@@ -49,7 +64,7 @@
           <mxGeometry x="320" y="150" width="199" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;對機器人決策方法&lt;br&gt;進行測試驗證&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="150" width="170" height="60" as="geometry" />
+          <mxGeometry x="548" y="150" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-7" target="DQA1pnny6km0yf52TErZ-10">
           <mxGeometry relative="1" as="geometry">
@@ -60,13 +75,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;安全與環境互動&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="392" width="170" height="60" as="geometry" />
+          <mxGeometry x="120" y="390" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-8" target="DQA1pnny6km0yf52TErZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;應付多元複雜&lt;br&gt;的任務與場景&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="389" width="200" height="60" as="geometry" />
+          <mxGeometry x="319" y="390" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-9" target="DQA1pnny6km0yf52TErZ-10">
           <mxGeometry relative="1" as="geometry">
@@ -77,44 +92,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;考慮成本提供服務&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;降低應用普及的門檻&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="392" width="170" height="60" as="geometry" />
+          <mxGeometry x="548" y="390" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DQA1pnny6km0yf52TErZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-10" target="DQA1pnny6km0yf52TErZ-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="419" y="550" />
-              <mxPoint x="325" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DQA1pnny6km0yf52TErZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-10" target="DQA1pnny6km0yf52TErZ-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="419" y="550" />
-              <mxPoint x="515" y="550" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="DQA1pnny6km0yf52TErZ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DQA1pnny6km0yf52TErZ-10" target="DQA1pnny6km0yf52TErZ-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;機器人依據任務需求&lt;br&gt;與環境進行自主決策&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="484" width="200" height="56" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;機器學習/&lt;br&gt;深度生成模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="150" width="170" height="60" as="geometry" />
+          <mxGeometry x="810" y="150" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;機器人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="210" width="170" height="46" as="geometry" />
+          <mxGeometry x="810" y="200" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;控制理論&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="256" width="170" height="40" as="geometry" />
+          <mxGeometry x="810" y="230" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;慕尼黑工業大學&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="337" width="170" height="43" as="geometry" />
+          <mxGeometry x="810" y="329" width="150" height="43" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RelAI 學程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="380" width="170" height="40" as="geometry" />
+          <mxGeometry x="810" y="372" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DQA1pnny6km0yf52TErZ-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;德國機器人產業發達&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="420" width="170" height="40" as="geometry" />
+        <mxCell id="DQA1pnny6km0yf52TErZ-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;德國機器人&lt;br&gt;產業發達&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="412" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;勞動力短缺問題&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="576" width="150" height="46" as="geometry" />
@@ -133,6 +135,12 @@
         </mxCell>
         <mxCell id="DQA1pnny6km0yf52TErZ-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;台灣面臨問題&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="528" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;所需知識&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;領域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DQA1pnny6km0yf52TErZ-42" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;我的研究環境&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="279" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
