@@ -124,11 +124,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="croenbVwfPVmmudFRWwA-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模擬：&lt;br&gt;七軸協作型機器手臂&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="567" width="200" height="50" as="geometry" />
+        <mxCell id="croenbVwfPVmmudFRWwA-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;模擬：&lt;br&gt;七軸協作型機器手臂於物理引擎&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="567" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="croenbVwfPVmmudFRWwA-18" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;實驗：&lt;br&gt;具夾爪與推進器之水下機器人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="567" width="240" height="50" as="geometry" />
+          <mxGeometry x="440" y="567" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
